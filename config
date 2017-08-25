@@ -5,7 +5,8 @@ author                    : Peter Širka
 url                       : https://helpdesk.totaljs.com
 
 // IMPORTANT: update the connection string below
-database                  : postgre://user:password@127.0.0.1/database
+<!-- database                  : postgre://user:password@127.0.0.1/database -->
+database                  : postgres://localhost/mackdb
 
 // Custom SMTP settings
 
